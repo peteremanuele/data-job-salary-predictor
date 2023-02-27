@@ -43,5 +43,3 @@ This project is licensed under the MIT License. See the [LICENSE](https://chat.o
 ## Acknowledgments
 
 -   [Niyal Thakkar](https://www.kaggle.com/niyalthakkar) for providing the [Data Science Jobs Analysis dataset](https://www.kaggle.com/niyalthakkar/data-science-jobs-analysis).
-
-Regenerate response
